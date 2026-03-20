@@ -1,3 +1,11 @@
+```
+███    ██ ██    ██ ██████         ██████  ███████ ██ ███    ██ ████████
+████   ██ ██    ██ ██   ██       ██    ██ ██      ██ ████   ██    ██
+██ ██  ██ ██    ██ ██████  █████ ██    ██ ███████ ██ ██ ██  ██    ██
+██  ██ ██ ██    ██ ██   ██       ██    ██      ██ ██ ██  ██ ██    ██
+██   ████  ██████  ██   ██        ██████  ███████ ██ ██   ████    ██
+```
+
 # NUR OSINT
 
 > A [NUR](https://github.com/nix-community/NUR) repository packaging OSINT tools for Nix.
@@ -7,8 +15,9 @@
 | Package        | Description                                                                                                                                                                                      | Source                                                                  |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------- |
 | `github-recon` | Retrieves and aggregates public OSINT data about a GitHub user using Go and the GitHub API. Finds hidden emails in commit history, previous usernames, friends, other GitHub accounts, and more. | [anotherhadi/github-recon](https://github.com/anotherhadi/github-recon) |
-| `toutatis`     | Toutatis is a tool that allows you to extract information from instagrams accounts such as e-mails, phone numbers and more                                                                       | [megadose/toutatis](https://github.com/megadose/toutatis)               |
+| `toutatis`     | Toutatis is a tool that allows you to extract information from instagrams accounts such as e-mails, phone numbers and more.                                                                      | [megadose/toutatis](https://github.com/megadose/toutatis)               |
 | `ignorant`     | ignorant allows you to check if a phone number is used on different sites like snapchat, instagram.                                                                                              | [megadose/ignorant](https://github.com/megadose/ignorant)               |
+| `user-scanner` | Emaill and Username OSINT tool that analyzes username and email presence across multiple platforms, intended for security research, investigations, legitimate analysis.                         | [kaifcodec/user-scanner](https://github.com/kaifcodec/user-scanner)     |
 
 More tools coming soon.
 
