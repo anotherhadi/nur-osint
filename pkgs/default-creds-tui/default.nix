@@ -5,13 +5,13 @@
 }:
 buildGo126Module rec {
   pname = "default-creds-tui";
-  version = "0.1.0";
+  version = "1.0.0";
 
   src = fetchFromGitHub {
     owner = "anotherhadi";
     repo = "default-creds-tui";
     rev = "v${version}";
-    hash = "sha256-oVtTaNHrUoe79pfJHdS0vPpzg/HfpS4qriNAeSGrykE=";
+    hash = "sha256-6wKQJgY84L4KUULgfOMTYriOOEt2lOph3bGPJ+LtIB0=";
   };
 
   vendorHash = "sha256-t7jZbEbssx3hdttBjBOAqUIrSWafz4rES11g86JOrSg=";
